@@ -21,5 +21,8 @@ public:
 };
 
 /*
+make a cleaned string
+then compare from left and right
+
 */
 
