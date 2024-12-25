@@ -20,4 +20,4 @@ public:
 
 /*
 for a given number n each number is the sum of the two preceding ones
-so as it start with 0 and one keep adding till =n and swap and move forward */
+so as it starts with 0 and one keep adding till =n and swap and move forward */
