@@ -15,4 +15,4 @@ public:
 };
 
 /*
-nothing re you just use a for loop and as u make the sum add it to the array*/
+nothing re you just use a for loop and as u make the sum add it to the new array*/
