@@ -67,4 +67,4 @@ int main() {
 // 	•	At each step, depending on the value of arr[mid], a swap operation is performed to place the element in its correct region (0s, 1s, or 2s).
 // 	•	The process continues until mid surpasses high.
 
-// This algorithm is optimal for sorting arrays with three distinct values and can be adapted for other problems with similar constraints.
+// This algorithm is optimal for sorting arrays with three distinct values and can be adapted for other problems with similar constraints
