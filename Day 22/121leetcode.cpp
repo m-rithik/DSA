@@ -14,8 +14,8 @@ public:
 };
 
 /*
-so here we comapare max profit which can happen
-*has to be linear cuz as the problem states its days so you can go back in days 
+so here we comapare max profit that is possible
+*it has to be linear cuz as the problem states its days so you cant go back in days 
 lets take [7,1,5,3,6,4]
 
 1st iterate
