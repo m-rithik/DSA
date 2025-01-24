@@ -13,4 +13,4 @@ karo (base-26 logic) aur current character ki value add kar do. Yeh process har 
 liye repeat hota hai. End mein subtotal hi column number banega. Example: "AB" ke liye, 0 → 1 → 28. 
 Output: 28*/
 
-//next after exams: sheets follow and algorithms
+//next after exams: sheets follow and algorithms.
