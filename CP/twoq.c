@@ -85,9 +85,10 @@ void solve_test_case() {
         printf("%lld", a[i]);
         if (i < n - 1) printf(" ");
     }
-    printf("\n");
+
     
     free(a);
+    printf("/n");
 }
 
 int main() {
