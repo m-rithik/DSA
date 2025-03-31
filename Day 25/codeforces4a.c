@@ -12,4 +12,4 @@ int main(){
     return 0;
 }
 
-//simple 800 rated
+//simple 800 rate
