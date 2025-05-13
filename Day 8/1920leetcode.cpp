@@ -13,5 +13,3 @@ public:
     }
 };
 
-/*
-nothing much just make annother array with takes in value of nums[nums[i]] thats it */
